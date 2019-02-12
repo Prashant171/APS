@@ -1,0 +1,4 @@
+Dynamic vs Recursive
+recursive,1-d,2-d 
+space ,time eficiency in each of them
+5-6 points
