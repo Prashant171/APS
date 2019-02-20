@@ -1,6 +1,7 @@
 Recursive algorithm :
   Used when there is single query and small values of n.
   Number of operations performed increases exponentially - 2^n.
+  Memory consumption is more.
   
 Dynamic programming :
  Used when we have lot of queries.
