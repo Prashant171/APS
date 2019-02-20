@@ -1,8 +1,8 @@
 # APS
 Algorithmic Problem Solving
 
-# Dynamic programming
+## Dynamic programming
 
-# Recursion :
+## Recursion :
 
-# Bit manipulation
+## Bit manipulation
