@@ -6,3 +6,4 @@ Algorithmic Problem Solving
 ## Recursion :
 
 ## Bit manipulation
+Pascal Triangle
