@@ -3,7 +3,6 @@
   #####    Processing time = n^2 
   #####    Fetch time = 1
   
-
 ## Square root decomposition technique :
 #####     This technique decompose given array into small chunks specifically of size sqrt(n).
 ####      Number of blocks to search = √n.
@@ -16,6 +15,10 @@
 ####      Time Complexity for tree construction is O(n). 
 ####      Time complexity to query is O(Logn).
 
+## Kadane algorithm:
+#####     It is an algorithm to solve the maximum sum subarray problem for an input array 
+####      Time Complexity is O(n). 
+####      It is a dynamic programming algorithm.
 
 
 
