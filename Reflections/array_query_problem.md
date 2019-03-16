@@ -11,4 +11,11 @@
 #####     Processing time = n
 #####     Acces time = √n
 
+## Segment tree technique :
+#####     Segment Tree is a binary tree used for storing the intervals .
+####      Time Complexity for tree construction is O(n). 
+####      Time complexity to query is O(Logn).
+
+
+
 
